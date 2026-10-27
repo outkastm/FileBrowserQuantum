@@ -1,0 +1,181 @@
+[en-us]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Bundles File Browser Quantum v1.5.8 built from source"
+important = "The app runs as user FileBrowserQuantum"
+descript = "Filebrowser Quantum provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware."
+
+[zh-cn]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "包含从源码编译的 File Browser Quantum v1.5.8"
+important = "此应用程序以用户 FileBrowserQuantum 身份运行"
+descript = "Filebrowser Quantum 在指定目录内提供文件管理界面，可用于上传、删除、预览、重命名和编辑文件。它支持创建多个用户，每个用户都可以拥有自己的目录。它可以作为独立应用程序或中间件使用。"
+
+[zh-hk]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "包含從源碼編譯的 File Browser Quantum v1.5.8"
+important = "此應用程式以使用者 FileBrowserQuantum 身分執行"
+descript = "Filebrowser Quantum 在指定目錄內提供檔案管理介面，可用於上傳、刪除、預覽、重命名和編輯檔案。它支援建立多個使用者，每個使用者都可以擁有自己的目錄。它可以作為獨立應用程式或中間件使用。"
+
+[ja-jp]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "ソースからビルドされた File Browser Quantum v1.5.8 を同梱"
+important = "アプリはユーザー FileBrowserQuantum として実行されます"
+descript = "Filebrowser Quantum は指定されたディレクトリ内でファイル管理インターフェースを提供し、ファイルのアップロード、削除、プレビュー、名前の変更、編集に使用できます。複数のユーザーを作成でき、各ユーザーが独自のディレクトリを持つことができます。スタンドアロンアプリまたはミドルウェアとして使用できます。"
+
+[de-de]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Enthält File Browser Quantum v1.5.8, aus den Quelldateien erstellt"
+important = "Die App wird als Benutzer FileBrowserQuantum ausgeführt"
+descript = "Filebrowser Quantum bietet eine Dateiverwaltungsoberfläche innerhalb eines angegebenen Verzeichnisses und kann zum Hochladen, Löschen, Vorschauen, Umbenennen und Bearbeiten Ihrer Dateien verwendet werden. Es ermöglicht die Erstellung mehrerer Benutzer, und jeder Benutzer kann sein eigenes Verzeichnis haben. Es kann als eigenständige App oder als Middleware verwendet werden."
+
+[fr-fr]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Intègre File Browser Quantum v1.5.8 compilé à partir des sources"
+important = "L'application s'exécute en tant qu'utilisateur FileBrowserQuantum"
+descript = "Filebrowser Quantum fournit une interface de gestion de fichiers dans un répertoire spécifié et peut être utilisé pour téléverser, supprimer, prévisualiser, renommer et modifier vos fichiers. Il permet la création de plusieurs utilisateurs et chaque utilisateur peut avoir son propre répertoire. Il peut être utilisé comme application autonome ou comme middleware."
+
+[it-it]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Include File Browser Quantum v1.5.8 compilato dai sorgenti"
+important = "L'app viene eseguita come utente FileBrowserQuantum"
+descript = "Filebrowser Quantum fornisce un'interfaccia di gestione dei file all'interno di una directory specificata e può essere utilizzato per caricare, eliminare, visualizzare in anteprima, rinominare e modificare i file. Consente la creazione di più utenti e ciascun utente può avere la propria directory. Può essere utilizzato come app autonoma o come middleware."
+
+[es-es]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Incluye File Browser Quantum v1.5.8 compilado desde la fuente"
+important = "La aplicación se ejecuta como el usuario FileBrowserQuantum"
+descript = "Filebrowser Quantum proporciona una interfaz de gestión de archivos dentro de un directorio especificado y se puede utilizar para cargar, eliminar, previsualizar, renombrar y editar sus archivos. Permite la creación de múltiples usuarios y cada usuario puede tener su propio directorio. Se puede utilizar como una aplicación independiente o como middleware."
+
+[ko-kr]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "소스에서 빌드된 File Browser Quantum v1.5.8 포함"
+important = "이 앱은 FileBrowserQuantum 사용자 권한으로 실행됩니다"
+descript = "Filebrowser Quantum은 지정된 디렉터리 내에서 파일 관리 인터페이스를 제공하며 파일을 업로드, 삭제, 미리보기, 이름 변경 및 편집하는 데 사용할 수 있습니다. 여러 사용자를 생성할 수 있으며 각 사용자는 자신만의 디렉터리를 가질 수 있습니다. 독립 실행형 앱 또는 미들웨어로 사용할 수 있습니다."
+
+[hu-hu]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Forrásból épített File Browser Quantum v1.5.8 verziót tartalmaz"
+important = "Az alkalmazás FileBrowserQuantum felhasználóként fut"
+descript = "A Filebrowser Quantum fájлкеzelő felületet biztosít egy megadott könyvtáron belül, és használható fájlok feltöltésére, törlésére, előnézetére, átnevezésére 및 szerkesztésére. Lehetővé teszi több felhasználó létrehozását, és minden felhasználónak saját könyvtára lehet. Használható önálló alkalmazásként vagy köztes szoftverként (middleware) is."
+
+[pl-pl]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Zawiera File Browser Quantum v1.5.8 zbudowany ze źródeł"
+important = "Aplikacja działa jako użytkownik FileBrowserQuantum"
+descript = "Filebrowser Quantum zapewnia interfejs zarządzania plikami w określonym katalogu i może być używany do przesyłania, usuwania, podglądu, zmiany nazwy oraz edycji plików. Umożliwia tworzenie wielu użytkowników, a każdy użytkownik może mieć własny katalog. Może być używany jako samodzielna aplikacja lub jako oprogramowanie pośredniczące (middleware)."
+
+[ru-ru]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Содержит File Browser Quantum v1.5.8, собранный из исходного кода"
+important = "Приложение работает от имени пользователя FileBrowserQuantum"
+descript = "Filebrowser Quantum предоставляет интерфейс управления файлами в указанном каталоге и может использоваться для загрузки, удаления, предварительного просмотра, переименования и редактирования ваших файлов. Он позволяет создавать нескольких пользователей, и каждый пользователь может иметь свой собственный каталог. Его можно использовать как автономное приложение или как промежуточное программное обеспечение."
+
+[tr-tr]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Kaynaktan derlenmiş File Browser Quantum v1.5.8 sürümünü içerir"
+important = "Uygulama FileBrowserQuantum kullanıcısı olarak çalışır"
+descript = "Filebrowser Quantum, belirli bir dizin içinde dosya yönetimi arabirimi sağlar ve dosyalarınızı yüklemek, silmek, önizlemek, yeniden adlandırmak ve düzenlemek için kullanılabilir. Birden fazla kullanıcı oluşturulmasına izin verir ve her kullanıcının kendi dizini olabilir. Bağımsız bir uygulama veya ara yazılım (middleware) olarak kullanılabilir."
+
+[cs-cz]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Obsahuje File Browser Quantum v1.5.8 přeložený ze zdrojového kódu"
+important = "Aplikace běží pod uživatelem FileBrowserQuantum"
+descript = "Filebrowser Quantum poskytuje rozhraní pro správu souborů ve vybraném adresáři a lze jej použít k nahrávání, mazání, náhledu, přejmenování a úpravě souborů. Umožňuje vytvoření více uživatelů a každý uživatel může mít svůj vlastní adresář. Lze jej použít jako samostatnou aplikaci nebo jako middleware."
+
+[da-dk]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Indeholder File Browser Quantum v1.5.8 bygget fra kildekode"
+important = "Appen kører som brugeren FileBrowserQuantum"
+descript = "Filebrowser Quantum giver en filhåndteringsgrænseflade i et angivet bibliotek, og det kan bruges til at uploade, slette, forhåndsvise, omdøbe og redigere dine filer. Det giver mulighed for at oprette flere brugere, og hver bruger kan have sit eget bibliotek. Det kan bruges som en enlig app eller som middleware."
+
+[nl-nl]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Bevat File Browser Quantum v1.5.8 gebouwd vanaf broncode"
+important = "De app wordt uitgevoerd als gebruiker FileBrowserQuantum"
+descript = "Filebrowser Quantum biedt een bestandsbeheerinterface binnen een opgegeven map en kan worden gebruikt om uw bestanden te uploaden, te verwijderen, te bekijken, te hernoemen en te bewerken. Het maakt het aanmaken van meerdere gebruikers mogelijk en elke gebruiker kan zijn eigen map hebben. Het kan worden gebruikt als een op zichzelf staande app of als middleware."
+
+[nb-no]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Inneholder File Browser Quantum v1.5.8 bygget fra kildekode"
+important = "Appen kjører som brukeren FileBrowserQuantum"
+descript = "Filebrowser Quantum gir et filbehandlingsgrensesnitt i en angitt katalog, og det kan brukes til å laste opp, slette, forhåndsvise, gi nytt navn til og redigere filene dine. Det tillater opprettelse av flere brukere, og hver bruker kan ha sin egen katalog. Det kan brukes som en frittstående app eller som middleware."
+
+[sv-se]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Innehåller File Browser Quantum v1.5.8 byggd från källkod"
+important = "Appen körs som användaren FileBrowserQuantum"
+descript = "Filebrowser Quantum ger ett filhanteringsgränssnitt i en angiven katalog och kan användas för att ladda upp, radera, förhandsgranska, döpa om och redigera dina filer. Det tillåter skapandet av flera användare och varje användare kan ha sin egen katalog. Det kan användas som en fristående app eller som middleware."
+
+[el-gr]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Περιλαμβάνει το File Browser Quantum v1.5.8 μεταγλωττισμένο από τον πηγαίο κώδικα"
+important = "Η εφαρμογή εκτελείται ως χρήστης FileBrowserQuantum"
+descript = "Το Filebrowser Quantum παρέχει μια διεπαφή διαχείρισης αρχείων εντός ενός καθορισμένου καταλόγου και μπορεί να χρησιμοποιηθεί για τη μεταφόρτωση, διαγραφή, προεπισκόπηση, μετονομασία και επεξεργασία των αρχείων σας. Επιτρέπει τη δημιουργία πολλαπλών χρηστών και κάθε χρήστης μπορεί να έχει το δικό του κατάλογο. Μπορεί να χρησιμοποιηθεί ως ανεξάρτητη εφαρμογή ή ως middleware."
+
+[ro-ro]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Include File Browser Quantum v1.5.8 construit din sursă"
+important = "Aplicația rulează ca utilizatorul FileBrowserQuantum"
+descript = "Filebrowser Quantum oferă o interfață de gestionare a fișierelor într-un director specificat și poate fi utilizat pentru a încărca, șterge, previzualiza, redenumi și edita fișierele dvs. Permite crearea mai multor utilizatori și fiecare utilizator poate avea propriul director. Poate fi utilizat ca o aplicație independentă sau ca middleware."
+
+[th-th]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "รวม File Browser Quantum v1.5.8 ที่สร้างจากซอร์สโค้ด"
+important = "แอปทำงานในฐานะผู้ใช้ FileBrowserQuantum"
+descript = "Filebrowser Quantum มีอินเทอร์เฟซการจัดการไฟล์ภายในไดเรกทอรีที่ระบุ และสามารถใช้เพื่ออัปโหลด ลบ ดูตัวอย่าง เปลี่ยนชื่อ และแก้ไขไฟล์ของคุณได้ ช่วยให้สามารถสร้างผู้ใช้หลายคนและผู้ใช้แต่ละคนสามารถมีไดเรกทอรีของตนเองได้ สามารถใช้เป็นแอปแบบสแตนด์อโลนหรือเป็นมิดเดิลแวร์ได้"
+
+[vi-vn]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Bao gồm File Browser Quantum v1.5.8 được biên dịch từ mã nguồn"
+important = "Ứng dụng chạy dưới dạng người dùng FileBrowserQuantum"
+descript = "Filebrowser Quantum cung cấp giao diện quản lý tệp trong một thư mục xác định và có thể được sử dụng để tải lên, xóa, xem trước, đổi tên và chỉnh sửa tệp của bạn. Nó cho phép tạo nhiều người dùng và mỗi người dùng có thể có thư mục riêng. Nó có thể được sử dụng như một ứng dụng độc lập hoặc như một phần mềm trung gian (middleware)."
+
+[id-id]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Mencakup File Browser Quantum v1.5.8 yang dibuat dari kode sumber"
+important = "Aplikasi berjalan sebagai pengguna FileBrowserQuantum"
+descript = "Filebrowser Quantum menyediakan antarmuka manajemen file dalam direktori tertentu dan dapat digunakan untuk mengunggah, menghapus, Pratinjau, mengubah nama, dan mengedit file Anda. Ini memungkinkan pembuatan beberapa pengguna dan setiap pengguna dapat memiliki direktorinya sendiri. Ini dapat digunakan sebagai aplikasi mandiri atau sebagai middleware."
+
+[ar-sa]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "يتضمن File Browser Quantum v1.5.8 تم تجميعه من المصدر"
+important = "يعمل التطبيق كالمستخدم FileBrowserQuantum"
+descript = "يوفر Filebrowser Quantum واجهة إدارة الملفات داحل دليل محدد ويمكن استخدامه لتحميل ملفاتك وحذفها ومعاينتها وإعادة تسميتها وتعديلها. يتيح إنشاء مستخدمين متعددين ويمكن لكل مستخدم أن يكون لديه الدليل الخاص به. يمكن استخدامه كتطبيق مستقل أو كبرنامج وسيط (middleware)."
+
+[he-il]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "כולל File Browser Quantum v1.5.8 שנבנה מקוד המקור"
+important = "האפליקציה פועלת כמשתמש FileBrowserQuantum"
+descript = "Filebrowser Quantum מספק ממשק ניהול קבצים בתוך ספרייה מוגדרת וניתן להשתמש בו כדי להעלות, למחוק, להציג תצוגה מקדימה, לשנות שם ולערוך את הקבצים שלך. הוא מאפשר יצירת משתמשים מרובים ולכל משתמש יכולה להיות ספרייה משלו. ניתן להשתמש בו כאפליקציה עצמאית או כ-middleware."
+
+[pt-pt]
+name = "FileBrowser Quantum"
+auth = "FileBrowser"
+release_note = "Inclui o File Browser Quantum v1.5.8 compilado a partir do código fonte"
+important = "A aplicação é executada como o utilizador FileBrowserQuantum"
+descript = "O Filebrowser Quantum fornece uma interface de gestão de ficheiros dentro de um diretório especificado e pode ser utilizado para carregar, eliminar, pré-visualizar, mudar o nome e editar os seus ficheiros. Permite a criação de múltiplos utilizadores e cada utilizador pode ter o seu próprio diretório. Pode ser utilizado como uma aplicação independente ou como middleware."
